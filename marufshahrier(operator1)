@@ -1,0 +1,13 @@
+<?php
+
+$num1 = 57420;
+$num2 = 226420;
+
+echo $num1 + $num2,"<br/>"; 
+echo $num1 - $num2,"<br/>"; 
+echo $num1 * $num2,"<br/>"; 
+echo $num1 / $num2;
+
+
+
+?>
