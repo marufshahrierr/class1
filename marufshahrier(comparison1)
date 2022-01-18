@@ -1,0 +1,8 @@
+<?php
+
+$num1 = 200;
+$num2 = 500;
+
+echo $num1 < $num2; //greater than exucute if only true
+
+?>
