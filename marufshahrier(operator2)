@@ -1,0 +1,10 @@
+<?php
+
+$num = 60;
+$num2 = 7;
+
+echo $num ** $num2, "<br/>"; //**working as power
+
+echo $num % $num2; //Remainder of $x divided by $y
+
+?>
