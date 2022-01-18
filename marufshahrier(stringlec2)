@@ -1,0 +1,10 @@
+<?php
+$fname = "Hello";
+$lname = "World";
+$fullname = $firstname. " ".$lname;
+
+echo strlen($fullname), "<br/>";
+echo strrev($fullname), "<br/>";
+echo 'Hello "World"', "<br/>";
+
+?>
